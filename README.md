@@ -1,5 +1,5 @@
 #Starter Web Project
-this simple website project for showing how to use git and github together.newbranch
+this simple website project for showing how to use git and github together.newbranch, adding line for rebasing 
 
 ##Introduction
 this is example is to show different parts of the git and various commands using a web project.
